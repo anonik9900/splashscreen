@@ -9,4 +9,4 @@ html5 &amp; css3 template
   <li><a href="https://github.com/VincentGarreau/particles.js/">Particles.js By Vincent Garreau</a></li>
   </ul>
   
-  <h2>Live Demo: <a href="http://repo.altervista.org/template/splashscreen"></a></h2>
+  <h2><a href="http://repo.altervista.org/template/splashscreen">Live Demo</a></h2>
