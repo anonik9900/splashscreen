@@ -18,16 +18,16 @@ html5 &amp; css3 template
  <code>$mail_to = 'your-websiteemail@mail.com';</code> Insert your email
  
  <code>&lt;script language="javascript" type="text/javascript">
-		alert('Thank you for the message. We will contact you shortly.');<code>
-		window.location = '../index.html'; *Insert here your index.html page position
+		alert('Thank you for the message. We will contact you shortly.');</code>
+		<code>window.location = '../index.html'; *Insert here your index.html page position
 	</script></code>
  <br>
  
  <p>Assistance Email:</p>
  
 <code> &lt;script language="javascript" type="text/javascript">
-		alert('Message failed. Please, send an email to your-email-support@mail.com'); * Insert your support email<br>
-		window.location = '../index.html'; *Insert here your index.html page position
+		alert('Message failed. Please, send an email to your-email-support@mail.com'); * Insert your support email<br></code>
+		<code>window.location = '../index.html'; *Insert here your index.html page position
 	</script></code>
 	
 
