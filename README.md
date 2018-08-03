@@ -10,3 +10,19 @@ html5 &amp; css3 template
   </ul>
   
   <h2><a href="http://repo.altervista.org/template/splashscreen">Live Demo</a></h2>
+  
+ <h2>Istruction:</h2>
+ 
+ Edit the The <b>.script/contact.php</b> file
+ 
+ <code>$mail_to = 'your-websiteemail@mail.com';</code> Insert your email
+ 
+ <code>&gt;script language="javascript" type="text/javascript">
+		alert('Thank you for the message. We will contact you shortly.');
+		window.location = '../index.html';
+	</script></code>
+ 
+ 
+ 
+ 
+ 
