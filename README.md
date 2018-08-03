@@ -18,8 +18,8 @@ html5 &amp; css3 template
  <code>$mail_to = 'your-websiteemail@mail.com';</code> Insert your email
  
  <code>&lt;script language="javascript" type="text/javascript">
-		alert('Thank you for the message. We will contact you shortly.');
-		window.location = '../index.html'; *Insert here your index.html page position
+		alert('Thank you for the message. We will contact you shortly.');<code>
+		<code>window.location = '../index.html'; *Insert here your index.html page position
 	</script></code>
  <br>
  
