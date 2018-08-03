@@ -19,7 +19,7 @@ html5 &amp; css3 template
  
  <code>&lt;script language="javascript" type="text/javascript">
 		alert('Thank you for the message. We will contact you shortly.');<code>
-		<code>window.location = '../index.html'; *Insert here your index.html page position
+		window.location = '../index.html'; *Insert here your index.html page position
 	</script></code>
  <br>
  
